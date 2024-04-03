@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vidit0419
-- 👀 I’m interested in Andriod Development and Web Development
-- 🌱 I’m currently learning Android Development
+- 👀 I’m interested in Web Development and Web Applications using MERN technology.
+- 🌱 I’m currently a Full Stack Developer
 - 📫 How to reach me - email id - viditdubey19042001@gmail.com
 
 <!---
